@@ -1,0 +1,36 @@
+body{
+background-color: rgb(242, 232, 218);
+}
+img{
+height: 20rem;
+object-fit: contain;
+width:15rem;
+}
+.Name{
+width: 15rem;
+}
+.detail{
+display: flex;
+width: 15rem;
+justify-content: space-between;
+align-items: center;
+}
+#rate{
+    color: aliceblue;
+    padding: 0.3rem;
+    padding-left:1rem ;
+    padding-right: 1rem;
+    border-radius: 6rem;
+background-color: rgb(34, 161, 34);
+}
+#offer{
+color: rgb(28, 151, 28);
+font-weight: 700;
+}
+.Part{
+background-color: rgb(255, 255, 255);
+border: 2px solid rgb(71, 71, 71);
+padding: 2rem;
+border-radius: 10px;
+z-index: -1;
+}

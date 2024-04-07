@@ -7,6 +7,7 @@
 ``` 
 - this reinstall all the require mudule for this project
 
+![demo video](./demo2.gif)
+
 ![demopic](./demopic.png)
 
-![demo video](./demo2.gif)
